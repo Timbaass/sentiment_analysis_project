@@ -82,7 +82,7 @@ notebooks/Sentiment_Analysis_ODEV6.ipynb
 
 ## Sonuçlar ve Görseller
 
-<img width="733" height="572" alt="image" src="https://github.com/user-attachments/assets/99bb07ab-39da-4f3c-9bbb-ab7a9a47d17b" />
+<img width="366" height="286" alt="image" src="https://github.com/user-attachments/assets/99bb07ab-39da-4f3c-9bbb-ab7a9a47d17b" />
 
 ### Model Performans Karşılaştırması
 

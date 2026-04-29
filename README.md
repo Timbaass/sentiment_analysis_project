@@ -92,4 +92,5 @@ notebooks/Sentiment_Analysis_ODEV6.ipynb
 
 ## Veri Kaynağı 
 
-- Kaggle — IMDB Dataset (50.000 film yorumu) https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+- Kaggle — IMDB Dataset (50.000 film yorumu) 
+- https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
